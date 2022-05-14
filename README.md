@@ -17,6 +17,7 @@ docker-compose up --build
 
 - Symfony 6 will run on [http://localhost:8007](http://localhost:8007)
 - phpMyAdmin will run on [http://localhost:9082](http://localhost:9082)
+- Appp runs on http://localhost:8007/crud/list
 
 # Use for reference
 
